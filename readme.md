@@ -16,16 +16,16 @@ You might have a lot of numbers on your phone that you want to manage, delete, o
 
 <h3>Tech 🚀</h3>
 
-<a>
+<p>
 <img  src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" >
 <img  src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" >
 <img  src="https://img.shields.io/badge/-php-333333?style=flat&logo=php" >
-</a>
+</p>
 
 
 <h3>See Some image(s) 📸</h3>
 <a>
-<img  src="screen.png" >
+<img  src="screenshot.png" >
 </a>
 
 
