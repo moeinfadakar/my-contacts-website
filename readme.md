@@ -1,13 +1,34 @@
-# php
-<hr>
-php helped me to  cerate a connection between front_end and back_end onb this project 
+<h2>my-contacts-website  🏚 </h2>
 
-# bootstrap
-<hr>
-bootstrap helped to to design the front_end of this project 
+<p>
+You might have a lot of numbers on your phone that you want to manage, delete, or Add  . We've provided that capability!
+</p>
 
-here is the screenshot : 
+<h3>Features 🔥</h3>
 
-![screenshot](screenshot.png)
+* Add, Change, remove contacts ✔
+* show Your contacts List  ✔
+* Well-designed User Interface & User Experience  ✔
 
+<h3>Goals  🎯</h3>
+
+<p>managing Your contacts</p>
+
+<h3>Tech 🚀</h3>
+
+<a>
+<img  src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" >
+<img  src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" >
+<img  src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" >
+</a>
+
+
+<h3>See Some image(s) 📸</h3>
+<a>
+<img  src="screen.png" >
+</a>
+
+
+<h3>Developer(s) ⚡ </h3>
+<a href="https://www.GitHub.com/moeinfadakar">Moein Fadakar</a>
 
